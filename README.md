@@ -3,5 +3,3 @@ Here's my  <a href="https://linkedin.com/in/prameetkulkarni/"><img src="https://
 
 # Brief Introduction
 I'm an analytical Master of Science in Information Security graduate from Royal Holloway, Uni of London (with a Year in Industry) with hands-on cybersecurity experience in strategizing, deploying, and managing security solutions. Eager to leverage my education, advanced technical skills, cybersecurity insights, and problem-solving capabilities to strengthen the security posture of organisations by implementing robust security engineering practices by driving risk management.
-
-# Objective
